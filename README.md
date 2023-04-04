@@ -17,3 +17,42 @@ We will collect a suitable dataset of protein sequences and their corresponding 
 To analyze the results, we will compare the performance of the pre-existing machine learning models with each other, and with traditional methods such as homology modeling. We will investigate the impact of different factors on prediction accuracy, such as the size of the protein sequence, the amount of training data available, or the use of additional information such as evolutionary conservation.
 
 
+
+Technologies effieicny overview:
+
+Main machine learning modules:
+- Hidden Markov Models
+- Neural Networks
+- Support Vector Machines
+
+1 Dimension:
+* Input: Protein Primary Sequence
+* Output: Sequence of predicted protein sequence
+* Goal: 
+* Analysis: from past to present (50 % -> 78% - 80%) when using traditional correlation to neural networks
+
+2 Dimension:
+* Goal: Spatial Relationship between residue, Prediciton of protein contact maps:
+* 
+* 
+    
+3 Dimensions:
+* Goal: Prediction of structural protein complexes 
+* Methods: Non neural networks, Hidden Markov Models, SAM, viterbi algorithm
+* Monte Carlo methods
+* Fragment Assembly toll Rosetta -> Clustering techinique
+
+4 Dimensions:
+* Goal: Prediction of strucutral protein complexes comprised of several folded protein also known as protein docking
+* Methods:
+    * Rosetta Clock
+    * Adap 3D - 4D problems
+    * 4D grid Fourier transformation method to dock protein subunits together
+
+
+Common bottlenecks:
+- Size of conformation space
+- Not yet develoepd for membrane protein becuase of not having enough data
+- 
+
+
