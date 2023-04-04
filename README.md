@@ -53,6 +53,6 @@ Main machine learning modules:
 Common bottlenecks:
 - Size of conformation space
 - Not yet develoepd for membrane protein becuase of not having enough data
-- 
+- There are still optimization that can be done
 
 
