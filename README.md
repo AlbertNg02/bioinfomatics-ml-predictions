@@ -6,9 +6,9 @@ Input: protein sequence
 
 
 | Dimensions  | Methodology | Comparison |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ------------- | ------------- | ------- |
+| Content Cell  | Content Cell  | ------- |
+| Content Cell  | Content Cell  | --------|
 
 
 
