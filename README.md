@@ -4,7 +4,11 @@
 
 Input: protein sequence
 
----
+
+| Dimensions  | Methodology | Comparison |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
@@ -30,6 +34,7 @@ Main machine learning modules:
 * Output: Predicted features of amino acids
 * Goal: 
 * Analysis: from past to present (50 % -> 78% - 80%) when using traditional correlation to neural networks
+* Methodology: instead of using 
 
 2 Dimension:
 * Goal: Spatial Relationship between residue, Prediciton of protein contact maps:
