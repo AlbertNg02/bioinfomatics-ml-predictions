@@ -27,7 +27,7 @@ Main machine learning modules:
 
 1 Dimension:
 * Input: Protein Primary Sequence
-* Output: Sequence of predicted protein sequence
+* Output: Predicted features of amino acids
 * Goal: 
 * Analysis: from past to present (50 % -> 78% - 80%) when using traditional correlation to neural networks
 
