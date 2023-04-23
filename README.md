@@ -9,8 +9,8 @@ Input: protein sequence
 |------------------|-------------|---------------------|------------|-------------|
 |  1     | NN, Feed forward NN     |8% below the predicted limit of 88% -                   | Protein Primary Sequence | Amino Acid Features |
 |  2     | NN, Recursive NN, Self-Organizing Maps, SVM| Average Precision and Recall around 50% | PPS, output 1 | Bio Contact Map |
-|  3     | Content Cell | - | PPS, output 1, output 2 |  fold recognition, model generation , and model evaluation |
-|  4     | Content Cell | - | PPS, output 1, output 2, output 3 | Relationship between 3d structure  |
+|  3     | HHM, SAM, HHMer, onjugate gradient descent and Monte Carlo methods | - | PPS, output 1, output 2 |  fold recognition, model generation , and model evaluation |
+|  4     | - | - | PPS, output 1, output 2, output 3 | Relationship between 3d structure  |
 
 
 
