@@ -1,8 +1,8 @@
-# bioinfomatics-ml-predictions
+# Bioinfomatics-ml-predictions
 ### Comparison of various methods of machine learning algorithms for protein structure prediction
 
 
-
+Input: protein sequence
 
 ---
 
