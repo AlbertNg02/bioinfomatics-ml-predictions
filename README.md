@@ -6,7 +6,7 @@ Input: protein sequence
 
 
 | Dimensions  | Methodology | Performance | Input | Ouput |
-| 1|   | ------- | Protein primary sequence | Amino acid features |
+| 1 |   | ------- | Protein primary sequence | Amino acid features |
 | 2 | nerual network, self-organizing maps, supprt vector machines  | The average preci- sion and recall performance measures are slightly above 50%. | Methodology | Bio contact map |
 | 3 | Content Cell  | --------| Methodology | Comparison |
 
